@@ -1339,5 +1339,6 @@ div[class*="childWrapperNoHoverBg"] {
   > ul
   > div:nth-child(8) {
   display: none;
+  color: black;
 }
 
