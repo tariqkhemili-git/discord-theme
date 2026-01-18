@@ -1270,6 +1270,74 @@ div[class*="childWrapperNoHoverBg"] {
   background-color: black;
 }
 
-#app-mount > div.a3002d7de5be5280-appAsidePanelWrapper > div > div.a3002d7de5be5280-app > div > div._960e4207cea8323e-layers._160d8e55254637e5-layers > div > div > div > div._5e434347c823b592-content > div._5e434347c823b592-sidebar.theme-dark.theme-midnight.images-dark > div._5e434347c823b592-sidebarList._5e434347c823b592-sidebarListRounded > nav > div._99e7cad8d4c55236-scroller.d125d22cdfd32cfe-thin.d125d22cdfd32cfe-scrollerBase.d125d22cdfd32cfe-fade > ul > div.e6b7699ce8339e1c-friendsButtonContainer > li {
+#app-mount
+  > div.a3002d7de5be5280-appAsidePanelWrapper
+  > div
+  > div.a3002d7de5be5280-app
+  > div
+  > div._960e4207cea8323e-layers._160d8e55254637e5-layers
+  > div
+  > div
+  > div
+  > div._5e434347c823b592-content
+  > div._5e434347c823b592-sidebar.theme-dark.theme-midnight.images-dark
+  > div._5e434347c823b592-sidebarList._5e434347c823b592-sidebarListRounded
+  > nav
+  > div._99e7cad8d4c55236-scroller.d125d22cdfd32cfe-thin.d125d22cdfd32cfe-scrollerBase.d125d22cdfd32cfe-fade
+  > ul
+  > div.e6b7699ce8339e1c-friendsButtonContainer
+  > li {
   display: none;
 }
+
+#app-mount
+  > div.a3002d7de5be5280-appAsidePanelWrapper
+  > div
+  > div.a3002d7de5be5280-app
+  > div
+  > div._960e4207cea8323e-layers._160d8e55254637e5-layers
+  > div
+  > div
+  > div
+  > div._5e434347c823b592-content
+  > div._5e434347c823b592-sidebar.theme-dark.theme-midnight.images-dark
+  > div._5e434347c823b592-sidebarList._5e434347c823b592-sidebarListRounded
+  > nav
+  > div._99e7cad8d4c55236-scroller.d125d22cdfd32cfe-thin.d125d22cdfd32cfe-scrollerBase.d125d22cdfd32cfe-fade
+  > ul
+  > div:nth-child(6),
+#app-mount
+  > div.a3002d7de5be5280-appAsidePanelWrapper
+  > div
+  > div.a3002d7de5be5280-app
+  > div
+  > div._960e4207cea8323e-layers._160d8e55254637e5-layers
+  > div
+  > div
+  > div
+  > div._5e434347c823b592-content
+  > div._5e434347c823b592-sidebar.theme-dark.theme-midnight.images-dark
+  > div._5e434347c823b592-sidebarList._5e434347c823b592-sidebarListRounded
+  > nav
+  > div._99e7cad8d4c55236-scroller.d125d22cdfd32cfe-thin.d125d22cdfd32cfe-scrollerBase.d125d22cdfd32cfe-fade
+  > ul
+  > div._1fc18cdca0445214-frequentFriendsRow,
+#app-mount
+  > div.a3002d7de5be5280-appAsidePanelWrapper
+  > div
+  > div.a3002d7de5be5280-app
+  > div
+  > div._960e4207cea8323e-layers._160d8e55254637e5-layers
+  > div
+  > div
+  > div
+  > div._5e434347c823b592-content
+  > div._5e434347c823b592-sidebar.theme-dark.theme-midnight.images-dark
+  > div._5e434347c823b592-sidebarList._5e434347c823b592-sidebarListRounded
+  > nav
+  > div._99e7cad8d4c55236-scroller.d125d22cdfd32cfe-thin.d125d22cdfd32cfe-scrollerBase.d125d22cdfd32cfe-fade
+  > ul
+  > div:nth-child(8) {
+  display: none;
+}
+
